@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Car",
+    "price": 10000,
+    "image": "/images/car.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Coke",
+    "price": 2.99,
+    "image": "/images/coke1.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 79.99,
+    "image": "/images/headphones.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Sword",
+    "price": 199.99,
+    "image": "/images/sword.jpeg"
+  }
+]
